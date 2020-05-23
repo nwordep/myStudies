@@ -1,0 +1,1 @@
+Um operator é um simbolo que indica para o compilador ou interpreter performar uma relação matemática ou lógica, e nos entregar o resultado final. 

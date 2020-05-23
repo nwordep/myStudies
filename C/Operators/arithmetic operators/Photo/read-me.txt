@@ -1,0 +1,1 @@
+Data Types são tipos os tipos de dados guardados por uma variável. 

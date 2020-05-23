@@ -1,0 +1,1 @@
+hello world é um programa, escrito para exemplificar uma especifica linguagem de programação.  

@@ -1,0 +1,1 @@
+Programa que se utiliza da declaração de variáveis para realizar uma soma, totalizando o total de uma compra. 
